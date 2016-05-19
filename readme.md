@@ -1,11 +1,14 @@
-# SemLinker 2014 - Open Source Project
+# SemLinker 2014
+
+SemLinker, a Modular and Open Source Framework for Named Entity Discovery and Linking
 
 Copyright (c) 2014  - GPL2 
 
-Author : Marie-Jean Meurs, Ph.D.  
-         Hayda Almeida, MSc.	
-         Ludovic Jean-Louis, Ph.D.   
-         Eric Charton, Ph.D.
+Authors: 
+Marie-Jean Meurs
+Hayda Almeida
+Ludovic Jean-Louis
+Eric Charton
           
 Version 2014
 
